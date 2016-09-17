@@ -1,4 +1,6 @@
 {
   "directory": "bower_components",
-  "analytics": false
+  "analytics": false,
+  "strict-ssl": false,
+  "https-proxy": ""
 }

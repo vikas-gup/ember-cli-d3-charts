@@ -5,6 +5,7 @@ module.exports = function(defaults) {
   var app = new EmberApp(defaults, {
     // Add options here
   });
+  app.import('bower_components/d3/d3.js');
 
   /*
     This build file specifes the options for the dummy test app of this
